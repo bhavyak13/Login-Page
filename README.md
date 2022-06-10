@@ -12,4 +12,4 @@ else you will be redirected to Welcome Page ('/welcome')
 To run the project on your computer:
 1. Download code 
 2. Open cmd and run command <b>npm install </b> in the same directory you have extracted code from zip file.
-3. now you are ready to go!
+3. Now run command <b>npm start</b>
